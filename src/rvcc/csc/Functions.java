@@ -16,4 +16,8 @@ public class Functions {
     int doubler(int x) {
         return 2*x;
     }
+
+    int exponential(int b, int x) {
+        return b^x;
+    }
 }
