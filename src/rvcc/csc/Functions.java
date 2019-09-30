@@ -1,9 +1,6 @@
 package rvcc.csc;
 
 public class Functions {
-    public Functions() {
-
-    }
     public static void main(String[] args) {
 
     }
