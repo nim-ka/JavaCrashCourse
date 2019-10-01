@@ -7,10 +7,13 @@ public class Variables {
         int i = 1000000;
         long l = 1000000000;
 
+        int num1 = 3, num2 = 4;
+        int num3, num4;
+
         char c = 'A';
 
-        float f = 10.0f;
-        double d = 10.0f;
+        float f = 3.14f;
+        double d = 0.666666666666666666666667f;
 
         String string = "Hello World!";
         boolean bool = false;
